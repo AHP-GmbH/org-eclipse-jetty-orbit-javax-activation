@@ -1,0 +1,83 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: dq10WD02KhOywFCYsIgCD8fzB0Q=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: XeMNe+uYlMkGwZjtm8NBcy3wm54=
+
+Name: javax/activation/DataContentHandlerFactory.java
+SHA1-Digest: v2+IONLS+k3f5cc6iAqWAd5G5z0=
+
+Name: javax/activation/MimeType.java
+SHA1-Digest: HdBb9or0InYydfXq/Lc3zY1cyqM=
+
+Name: META-INF/mimetypes.default
+SHA1-Digest: 9ATbfTvOpc7AyKkgncwZJqa3RdU=
+
+Name: javax/activation/MimeTypeParseException.java
+SHA1-Digest: X3dOaDu2suC1+XXUDNpmb9Cz0e8=
+
+Name: javax/activation/DataSource.java
+SHA1-Digest: WOkYxRIPSJXPJl8P+BtnoHDtPrE=
+
+Name: META-INF/LICENSE.txt
+SHA1-Digest: Mxg2yvdGHtHvz3915ZFgHvvpnv4=
+
+Name: plugin.properties
+SHA1-Digest: K0xodNy/S0hm3RvP/zoK+HuskvM=
+
+Name: javax/activation/MimetypesFileTypeMap.java
+SHA1-Digest: NlnGJm22i3X8fmWRt5e91dTAghE=
+
+Name: javax/activation/DataHandler.java
+SHA1-Digest: 44hqxrPC29YVv9tbJPGmh4pRByE=
+
+Name: javax/activation/DataContentHandler.java
+SHA1-Digest: oRqhHDL+TKsa89l7pw3n6Tx8TFk=
+
+Name: javax/activation/CommandInfo.java
+SHA1-Digest: ycwDgjHaV+UqriuFsbraeY835pk=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: AZ1Gz6XJJe7p5KHLgXjkErkNZ+A=
+
+Name: javax/activation/UnsupportedDataTypeException.java
+SHA1-Digest: 6fjLQfyKcWbl4BMQ5N44IOb3HFo=
+
+Name: javax/activation/URLDataSource.java
+SHA1-Digest: ICUIbF/htuARCfaEZ7wpja6wrw8=
+
+Name: javax/activation/CommandMap.java
+SHA1-Digest: c4PqyPwQGl1xO3jp7+NN95NnqO4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: re5VdqMikPGyOk4sBCR2dtMa3EU=
+
+Name: javax/activation/MailcapCommandMap.java
+SHA1-Digest: 43T7Caj0XoSuJ9hB/x6vF1+tPW8=
+
+Name: META-INF/mailcap
+SHA1-Digest: UBcrhWzQdbsWi/LwYNPe3nDc/3s=
+
+Name: javax/activation/CommandObject.java
+SHA1-Digest: 6gPI+CsVvu+S+nethkUZ2FquaRs=
+
+Name: javax/activation/FileTypeMap.java
+SHA1-Digest: y1ateAm+iFXeb4Ty9ZRpWYFyajU=
+
+Name: about.html
+SHA1-Digest: qAHVvJ33n3qdABQuoZM3rO/2xug=
+
+Name: javax/activation/FileDataSource.java
+SHA1-Digest: AvbGLO92zUUIjELIW4dzOSD1Gkw=
+
+Name: META-INF/NOTICE.txt
+SHA1-Digest: DGc+EIabnQL9U0dYRJgcnDLfArU=
+
+Name: javax/activation/ActivationDataFlavor.java
+SHA1-Digest: lyb0gXucyAb6JEm5WeZmem3VOos=
+
+Name: javax/activation/MimeTypeParameterList.java
+SHA1-Digest: Z0yKsQAzMHmXfaU/Z1nYtucAlDo=
+

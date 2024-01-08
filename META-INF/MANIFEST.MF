@@ -1,0 +1,90 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %Bundle-Vendor.0
+Eclipse-SourceBundle: javax.activation;version="1.1.0.v201105071233"
+Bundle-Localization: plugin
+Bundle-Name: %Bundle-Name.0
+Bundle-SymbolicName: javax.activation.source
+Eclipse-SourceReferences: scm:cvs:pserver:dev.eclipse.org:/cvsroot/too
+ ls:org.eclipse.orbit/javax.activation/source-bundle;project="javax.ac
+ tivation.source";tag=v201105071233
+Bundle-Version: 1.1.0.v201105071233
+Bundle-ManifestVersion: 2
+
+Name: javax/activation/DataContentHandlerFactory.java
+SHA1-Digest: Px1VjGIJ7qFg6g+jk5ZNLOIenJ0=
+
+Name: META-INF/mimetypes.default
+SHA1-Digest: nVkk0DdoHnAna8z9HT4kNPBx5HQ=
+
+Name: javax/activation/MimeType.java
+SHA1-Digest: H1jinf9JYWn5M66GgX+gmIrL0Tk=
+
+Name: javax/activation/MimeTypeParseException.java
+SHA1-Digest: gZK5rhu1XAZOSNXIqJGjjo7+0dw=
+
+Name: javax/activation/DataSource.java
+SHA1-Digest: kXtUbHMoLHpQ2y6iyixzQHWmsLc=
+
+Name: META-INF/LICENSE.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: plugin.properties
+SHA1-Digest: AS1P/K5LwWnu+hnXpVQfYS+bSz8=
+
+Name: javax/activation/MimetypesFileTypeMap.java
+SHA1-Digest: izMHSCj1l4h8tpVH9MqP5YUVlwI=
+
+Name: javax/activation/DataHandler.java
+SHA1-Digest: nzoI18JafaUOby7yXLlbINUD1bE=
+
+Name: javax/activation/DataContentHandler.java
+SHA1-Digest: tfyc9NPKgnhbxSoeyeI/66Ueo4s=
+
+Name: javax/activation/CommandInfo.java
+SHA1-Digest: WHLRvoRa+dYG2oHMV9d/abqX3dw=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: javax/activation/UnsupportedDataTypeException.java
+SHA1-Digest: SSjxh03xkuItS/kSIxf+r3S5aSQ=
+
+Name: javax/activation/URLDataSource.java
+SHA1-Digest: poaEnWY4CL6BgVGOzlhVPCgbxvU=
+
+Name: javax/activation/CommandMap.java
+SHA1-Digest: ePvkVlg2kk0IeH6UpikQjJCWFv4=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about_files/NOTICE.txt
+SHA1-Digest: Ex1StWQcRypWm7DbhZGM8v6CEUA=
+
+Name: javax/activation/MailcapCommandMap.java
+SHA1-Digest: xpH2ZZIJpu1lWsKG7wo7w0+Z1oM=
+
+Name: META-INF/mailcap
+SHA1-Digest: bh6yhp2xeanKwn/i+mAhbiwoMeQ=
+
+Name: javax/activation/CommandObject.java
+SHA1-Digest: lDQB1PMBN03f4YL+3/Rm/UUFBTg=
+
+Name: javax/activation/FileTypeMap.java
+SHA1-Digest: +7xFq1nDBwxGmz7XI0YhN4S5GoI=
+
+Name: about.html
+SHA1-Digest: AouLgRIdA/4coU8pQVxsUG4YYH4=
+
+Name: javax/activation/FileDataSource.java
+SHA1-Digest: mztoBSphcUmDJtkHxXZqGAm+5/Q=
+
+Name: META-INF/NOTICE.txt
+SHA1-Digest: H9ab5ckhpzoIb7CLBsKe798YBNw=
+
+Name: javax/activation/ActivationDataFlavor.java
+SHA1-Digest: 8YjP8JkGKsqEXPpLZy+FdZPbIOA=
+
+Name: javax/activation/MimeTypeParameterList.java
+SHA1-Digest: tYeIWcRHmVEPcpwFCb880EyaYPY=
+
